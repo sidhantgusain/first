@@ -2,6 +2,7 @@
 hi this is the first project
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 hlo there
 =======
 >>>>>>> parent of 5643caf... hfb
@@ -9,4 +10,6 @@ hlo there
 hmm
 						
 aise kaise
+=======
+>>>>>>> parent of 5643caf... hfb
 
